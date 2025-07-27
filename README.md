@@ -7,4 +7,4 @@ This is one of the first applications through which I started learning the C lan
 
 For a larger window, set the font to 10x18 in the settings.
 
-<img width="382" height="482" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/8662e80f-a6cb-4807-b101-b5ba9363666f" />
+<img width="381" height="457" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/825a9768-f32b-4d72-b8ab-c7023f7817b5" />
