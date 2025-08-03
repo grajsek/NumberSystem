@@ -8,3 +8,7 @@ This is one of the first applications through which I started learning the C lan
 For a larger window, set the font to 10x18 in the settings.
 
 <img width="381" height="457" alt="ConsoleWindowFont" src="https://github.com/user-attachments/assets/825a9768-f32b-4d72-b8ab-c7023f7817b5" />
+
+# Environment setup
+- Microsoft Visual Studio 2022 Community Edition
+- Go to menu Prpject -> Number System 1.1 Properties -> Linker -> System -> For SubSystem select "Console (/SUBSYSTEM:CONSOLE)"
