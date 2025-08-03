@@ -11,4 +11,4 @@ For a larger window, set the font to 10x18 in the settings.
 
 # Environment setup
 - Microsoft Visual Studio 2022 Community Edition
-- Go to menu Prpject -> Number System 1.1 Properties -> Linker -> System -> For SubSystem select "Console (/SUBSYSTEM:CONSOLE)"
+- Go to menu Project -> Number System 1.1 Properties -> Linker -> System -> For SubSystem select "Console (/SUBSYSTEM:CONSOLE)"
